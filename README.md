@@ -1,6 +1,6 @@
-# Ex. No.2 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No. 02 - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 26-12-2023
+## DATE:  17.10.2024
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -44,10 +44,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot 2023-12-19 185207](https://github.com/23002824/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/151514009/f8bb111f-e52d-411b-9527-3f9442ebf201)
-![Screenshot 2023-12-19 185233](https://github.com/23002824/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/151514009/d204bd87-9b0c-4bff-ac17-7972fdab7016)
-![Screenshot 2023-12-19 185253](https://github.com/23002824/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/151514009/3a85e0ad-d47b-4c66-9861-441a6f232c96)
+![2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/f7c0d788-a119-4060-860c-216ce710d318)
 
+![2 1](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/896ffe4c-b42f-4666-8dd7-9a2e0312968e)
+
+![2 2](https://github.com/Manisrii21/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147140163/8ea338b3-f003-48b6-b48b-2986db11f662)
 
 ### Name: PYNAM VINODH
 ### Register Number: 212223240131
